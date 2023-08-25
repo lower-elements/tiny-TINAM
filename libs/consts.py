@@ -1,0 +1,8 @@
+EVT_PAUSE = 100
+EVT_DESTROY = 101
+OS_LINUX = 201
+OS_MAC = 202
+OS_WINDOWS = 203
+TITLE = "game"
+SOUNDPREPEND = "data/"
+SERVER_SOUNDS_URL = "https://example.com/"
